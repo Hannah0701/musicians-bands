@@ -31,7 +31,7 @@ npm install
 3. In `/models/Musician.js`, define a `Musician` model. The `Musician` model should have the following properties:
     - `name`: a string
     - `instrument`: a string
-4. In `/models/Song.j`s, define a `Song` model. The `Song` model should have the following properties:
+4. In `/models/Song.js`, define a `Song` model. The `Song` model should have the following properties:
     - `title`: a string
     - `year`: a number
     - `length`: a number
