@@ -1,10 +1,16 @@
 const seedBand = [{
     name: 'The Beatles',
     genre: 'Rock'
+}, {
+    name: 'Nirvana',
+    genre: 'Grunge'
 }];
 
 const seedMusician = [{
     name: 'John Lennon',
+    instrument: 'Guitar'
+}, {
+    name: 'Kurt Cobain',
     instrument: 'Guitar'
 }];
 
